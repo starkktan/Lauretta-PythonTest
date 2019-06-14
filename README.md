@@ -1,5 +1,5 @@
 # PythonTest
-Python Test for Laurette.io
+Python Test from Galvin Widjaja from Lauretta.io
 
 There are 3 files:
 face_predictor.py (Used for question 2)
